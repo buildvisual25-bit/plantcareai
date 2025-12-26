@@ -1,0 +1,9 @@
+{
+  "name": "AI Plant Care Final",
+  "description": "A personal AI-powered gardening assistant with plant identification, care guides, and weather tools.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
